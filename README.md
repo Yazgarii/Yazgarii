@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yazgari</h1>
-<h3 align="center">I am a software developer trying to improve himself in Turkey</h3>
+<h3 align="center">Web Software Development</h3>
 
 - 🔭 I’m currently working on **Web Developing**
 
